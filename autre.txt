@@ -1,0 +1,2 @@
+Ceci est un autre fichier texte avec du texte et modifié sur vim
+VOilà c'est tout
